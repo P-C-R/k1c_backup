@@ -73,3 +73,6 @@ managed_services =
 subscriptions = 
 	octoeverywhere
 
+[spoolman]
+server = http://192.168.178.68:7912
+
